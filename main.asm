@@ -1,8 +1,9 @@
 ; Blinking LED: every 1008 ms 
 ; 
 ; Created: 18/03/2022 12:42:45
-; Author : Andrés Alippi
+; Author : AndrÃ©s Alippi
 ;
+; I extracted an example from book "AVR Microcontroller and Embedded Systems" and modified it.
 
 ; .INCLUDE "tn85def.inc"
 .EQU		COUNTER = 127			;auxiliar counter for extra delay
